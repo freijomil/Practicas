@@ -22,9 +22,9 @@ let ingreseEdad = "Ingrese su edad"
 
 let edad = prompt(ingreseEdad)
 let container = document.querySelector(".container-general") 
-let denegado = document.querySelector(".accesoDenegado")
+let denegado = document.querySelector(".contenido-bloqueado")
 if (edad >17) {
-    
+
 } else{
  
 }
